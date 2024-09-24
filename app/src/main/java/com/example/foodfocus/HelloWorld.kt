@@ -22,5 +22,7 @@ class HelloWorld {
   *
   *
   * SPAAASIBOO
+  *
+  * куапук
   * */
 }
