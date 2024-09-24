@@ -16,9 +16,12 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
 
-            std::cout<<"hello world!";
+            переключи на англ покажу
+                    Console.WriteLine("Hello World!");
         }
     }
 }
 
 kak popastb v
+
+        стой а как коммиты во
