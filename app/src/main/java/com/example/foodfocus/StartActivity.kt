@@ -23,3 +23,4 @@ class StartActivity : AppCompatActivity() {
         }
     }
 }
+//sdfwrg
