@@ -30,3 +30,6 @@ class StartActivity : AppCompatActivity() {
 //купупк
 
 //gregerg
+
+
+//укукепи
