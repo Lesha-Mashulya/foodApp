@@ -26,3 +26,5 @@ class StartActivity : AppCompatActivity() {
 //sdfwrg
 
 //sdvsvsdv
+
+//купупк
